@@ -22,7 +22,7 @@
 
 ### 损失函数
 
-<a href="url"><img src="https://github.com/Ctiely/GLM-Newton-Raphson/blob/master/formula/cost_logit.png" align="center" height="76" width="443" ></a> 
+<a href="url"><img src="https://github.com/Ctiely/GLM-Newton-Raphson/blob/master/formula/cost_logit.png" align="center" height="70" width="580" ></a> 
 
 ### gradient
 
@@ -40,15 +40,15 @@
 
 ### 损失函数
 
-<a href="url"><img src="https://github.com/Ctiely/GLM-Newton-Raphson/blob/master/formula/cost_poisson.png" align="center" height="81" width="581" ></a> 
+<a href="url"><img src="https://github.com/Ctiely/GLM-Newton-Raphson/blob/master/formula/cost_poisson.png" align="center" height="80" width="450" ></a> 
 
 ### gradient
 
-<a href="url"><img src="https://github.com/Ctiely/GLM-Newton-Raphson/blob/master/formula/gradient_poisson.png" align="center" height="97" width="409" ></a> 
+<a href="url"><img src="https://github.com/Ctiely/GLM-Newton-Raphson/blob/master/formula/gradient_poisson.png" align="center" height="80" width="360" ></a> 
 
 ### Hession
 
-<a href="url"><img src="https://github.com/Ctiely/GLM-Newton-Raphson/blob/master/formula/Hession_poisson.png" align="center" height="110" width="382" ></a> 
+<a href="url"><img src="https://github.com/Ctiely/GLM-Newton-Raphson/blob/master/formula/Hession_poisson.png" align="center" height="90" width="350" ></a> 
 
 
 
